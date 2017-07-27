@@ -1,4 +1,4 @@
-# ppu
+# RBWalletProvider
 
 ## usage
 
